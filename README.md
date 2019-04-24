@@ -8,7 +8,7 @@ Homebrew tap for deprecated formulae.
 ## Installation
 
 ```bash
-brew tap kunte/homebrew-deprecated
+brew tap kunte0/homebrew-deprecated
 ```
 
 ## Usage
@@ -16,8 +16,6 @@ brew tap kunte/homebrew-deprecated
 ```bash
 brew install <formula>
 ```
-
-See [Formula](Formula) directory for available formulae.
 
 
 ## Credits
