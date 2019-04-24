@@ -1,13 +1,14 @@
-# eXolnet Homebrew Deprecated
+# Homebrew Deprecated
 
-[![Software License](https://img.shields.io/badge/license-MIT-8469ad.svg?style=flat-square)](LICENSE)
+- php 5.6
+- php 7.0
 
-eXolnet's Homebrew tap for deprecated formulae.
+Homebrew tap for deprecated formulae.
 
 ## Installation
 
 ```bash
-brew tap exolnet/homebrew-deprecated
+brew tap kunte/homebrew-deprecated
 ```
 
 ## Usage
@@ -18,18 +19,12 @@ brew install <formula>
 
 See [Formula](Formula) directory for available formulae.
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT.md) for details.
-
-## Security
-
-If you discover any security related issues, please email security@exolnet.com instead of using the issue tracker.
 
 ## Credits
 
 - [Patrick Gagnon-Renaud](https://github.com/pgrenaud)
 - [All Contributors](../../contributors)
+- eXolnet
 
 ## License
 
