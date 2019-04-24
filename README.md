@@ -3,7 +3,7 @@
 - php 5.6
 - php 7.0
 
-Homebrew tap for deprecated formulae.
+Homebrew tap for deprecated formulas.
 
 ## Installation
 
