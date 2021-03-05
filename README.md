@@ -1,3 +1,6 @@
+# !! this is old use [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) !!
+
+
 # Homebrew Deprecated
 
 - php 5.6
